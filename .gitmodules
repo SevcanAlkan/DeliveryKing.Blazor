@@ -1,0 +1,6 @@
+[submodule "DeliveryKing.ViewModel"]
+	path = DeliveryKing.ViewModel
+	url = https://sevcanalkan@dev.azure.com/sevcanalkan/DeliveryKing/_git/DeliveryKing.ViewModel
+[submodule "DeliveryKing.Core"]
+	path = DeliveryKing.Core
+	url = https://sevcanalkan@dev.azure.com/sevcanalkan/DeliveryKing/_git/DeliveryKing.Core
