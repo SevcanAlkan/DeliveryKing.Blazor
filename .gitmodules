@@ -4,3 +4,7 @@
 [submodule "DeliveryKing.Core"]
 	path = DeliveryKing.Core
 	url = https://sevcanalkan@dev.azure.com/sevcanalkan/DeliveryKing/_git/DeliveryKing.Core
+[submodule ".\\DeliveryKing.Core\\"]
+	url = https://github.com/SevcanAlkan/DeliveryKing.Core.git
+[submodule ".\\DeliveryKing.ViewModel\\"]
+	url = https://github.com/SevcanAlkan/DeliveryKing.ViewModel.git
